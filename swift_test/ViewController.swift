@@ -19,6 +19,9 @@ class ViewController: UIViewController {
         
         var a = "aadfag";
         
+        var by = "dafqewr";
+        
+        
         a = "tyyt";
         
         
